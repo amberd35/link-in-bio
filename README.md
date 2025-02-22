@@ -1,3 +1,3 @@
-# static-html-template
+Link-In-Bio
 
-Use this template to create static HTML websites and deploy them on Render.
+Link-In-Bio is the first project in the bootcamp focused on webpage creation, designed to replicate Linktree's functionality.
